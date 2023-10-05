@@ -5,7 +5,7 @@ End-To-End Data Engineering Project using Airflow and Python
 I Developed an End-To-End Data Engineering Project using Apache Airflow and Python. Used data extracted using Twitter API, and Python to transform data, deployed the code on Airflow/EC2 and saved the final result on Amazon S3. This project helped me understand Apache Airflow 
 
 ## Architecture 
-<img src="Architecture.jpg">
+<img src="Architecture.png">
 
 ## Technology Used
 - Programming Language - Python
